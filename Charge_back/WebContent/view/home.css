@@ -1,0 +1,32 @@
+.container
+{
+	align:center;
+	position:absolute;
+	margin-left:600px;
+	margin-top:500px;
+	border:none;
+	background:lightgray;
+	width:700px;
+	height:300px;
+}
+
+.form
+{
+	font-family:Arial;
+	font-size:20px;
+	color:black;
+}
+
+.form #sub
+{
+	
+   cursor: pointer;
+   font-size:24px;
+}
+
+.form #reset
+{
+	
+   cursor: pointer;
+   font-size:24px;
+}
